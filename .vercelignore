@@ -1,5 +1,8 @@
 node_modules
-tests
+resources
+storage
 .env
 *.log
-/vendor
+tests
+vite.config.js
+webpack.mix.js
