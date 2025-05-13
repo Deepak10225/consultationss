@@ -1,8 +1,0 @@
-node_modules
-resources
-storage
-.env
-*.log
-tests
-vite.config.js
-webpack.mix.js
