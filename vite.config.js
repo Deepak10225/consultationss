@@ -8,6 +8,10 @@ export default defineConfig({
       input: ['resources/js/app.js'],
       refresh: true,
     }),
-    vue(), 
+    vue(),
   ],
+  build: {
+    outDir: 'public/build',
+    emptyOutDir: true,
+  }
 });
