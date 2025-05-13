@@ -1,7 +1,6 @@
 <template>
-  <!-- <Notification />
-  <router-view /> -->
-  dgkaig
+  <Notification />
+  <router-view />
 </template>
 
 <script>
